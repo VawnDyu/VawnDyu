@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @VawnDyu
-- 👀 I’m interested in ...
+<h2>Hi, I'm Vonne Dew 👋</h2>
+
+Welcome to my profile! I'm a student and currently learning more to become a web developer.
+
+### Bio
+
+- 💡 Skills: <code>.html</code>, <code>.css</code>, <code>.java</code>, and <code>.php</code>.
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Development
+
+
 
 <!---
 VawnDyu/VawnDyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
