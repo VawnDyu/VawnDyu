@@ -4,8 +4,8 @@ Welcome to my profile! I'm a student and currently learning more to become a web
 
 ### Bio
 
-- 💡 Skills: <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.java</code>, <code>.php</code>, and <code>.sql</code>.
-- 🌱 I’m currently learning Java
+- 💡 Skills: <code>.html</code>, <code>.css</code>, <code>.js</code>, <code>.java</code>, <code>.php</code>, <code>.py</code>, and <code>.sql</code>.
+- 🌱 I’m currently learning Python
 - 👀 I’m interested in Web Development
 
 
