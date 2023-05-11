@@ -1,6 +1,6 @@
 <h2>Hi, I'm Vonne Dew 👋</h2>
 
-Welcome to my profile! I'm a student and currently learning more to become a web developer.
+Welcome to my profile! I'm a web developer.
 
 ### Bio
 
