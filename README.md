@@ -1,4 +1,4 @@
-# 💻 Vonne Dew Salig - Web Developer
+# 💻 Vonne Dew - Web Developer
 
 I'm a web developer with a strong interest in both web and game development. While my main expertise lies in building web applications, I'm also exploring visual novel game development as a creative outlet. I'm not a professional game developer (yet), but I'm passionate about learning and bringing interactive stories to life.
 
