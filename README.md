@@ -5,7 +5,7 @@ I'm a web developer with a strong interest in both web and game development. Whi
 ## 🚀 Portfolio
 
 You can check out my full portfolio here:
-🔗 [Visit my Portfolio Website](https://vawndyu.github.io/My-Portfolio/)
+🔗 [Visit my Portfolio Website](https://vawndyu.github.io)
 
 ## 🛠️ Tech Stack
 
